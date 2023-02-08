@@ -1,0 +1,79 @@
+id: 3bd3ab3d6af5461798cb0810c19467a9
+annotation_type: index
+revision: '00001'
+annotations:
+  188ab0a4b9ed430ca94c62e8a6ce62c9:
+    base: C3F3.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 44
+    - title: Preface
+      span:
+        start: 45
+        end: 5323
+    - title: §1-20
+      span:
+        start: 5324
+        end: 31035
+    - title: §21-40
+      span:
+        start: 31036
+        end: 44187
+    - title: §41-60
+      span:
+        start: 44188
+        end: 62782
+    - title: §61-80
+      span:
+        start: 62783
+        end: 75893
+    - title: §81-100
+      span:
+        start: 75894
+        end: 85475
+    - title: §101-120
+      span:
+        start: 85476
+        end: 95626
+    - title: §121-140
+      span:
+        start: 95627
+        end: 101852
+    - title: §141-160
+      span:
+        start: 101853
+        end: 109253
+    - title: §161-180
+      span:
+        start: 109254
+        end: 120202
+    - title: §181-200
+      span:
+        start: 120203
+        end: 133872
+    - title: §201-220
+      span:
+        start: 133873
+        end: 142615
+    - title: §221-240
+      span:
+        start: 142616
+        end: 155676
+    - title: §241-260
+      span:
+        start: 155677
+        end: 183739
+    - title: §261-280
+      span:
+        start: 183740
+        end: 196547
+    - title: §281-283
+      span:
+        start: 196548
+        end: 197603
+    - title: Colophon
+      span:
+        start: 197604
+        end: 197614
